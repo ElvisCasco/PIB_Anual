@@ -4,4 +4,4 @@ En este sitio se presenta una forma de manipular los datos correspondientes a la
 
 El archivo `PIB_Anual.Rmd` contiene los c&#243;digos en RStudio para obtener los resultados a nivel de tabla y gr&#225;fico din&#225;mico de todos los archivo de la arista mencionada. Para ejecutar c&#243;digos desde su computadora, puede descargar el contenido de este sitio con el bot&#243;n verde `Clone or download` ubicado arriba y a la derecha de este mensaje.
 
-El archivo `server.R` ejecuta un proceso que permite visualizar los datos en una tabla y descargar los datos de origen para dicha tabla en un archivo .csv.
+El archivo `server.R` ejecuta un proceso que permite visualizar los datos en una tabla y descargar los datos de origen para dicha tabla en su computadora, en un archivo `.csv`. Los resultados din&#225;micos usando Shiny se encuentran en [este v&#237;nculo](http://127.0.0.1:3597)
